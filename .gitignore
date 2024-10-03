@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Rider files
+.idea/*
+
+# External files
+Content/__ExternalActors__/*
+COntent/__ExternalObjects__/**
